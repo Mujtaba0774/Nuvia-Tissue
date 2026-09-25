@@ -1,5 +1,7 @@
 # Nuvia Tissues — Website
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 Marketing and shop-front website for **Nuvia**, a Pakistani tissue brand (toilet rolls, facial tissues, kitchen towels, baby care and pocket packs). Built as a single-page React app with a built-in admin panel for editing site content.
 
 ![Home page](https://mujtabaasif.vercel.app/assets/projects-screenshots/nuvia/home.webp)
